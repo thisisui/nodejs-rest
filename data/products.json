@@ -1,6 +1,12 @@
 [
   {
     "id": 1,
-    "name": "Product 01"
+    "name": "Product 01",
+    "description": "Very good product"
+  },
+  {
+    "id": 1,
+    "name": "Product 02",
+    "description": "Better than very good product"
   }
 ]
